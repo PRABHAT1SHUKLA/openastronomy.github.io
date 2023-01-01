@@ -31,7 +31,7 @@ To view the site locally, you will then need to run:
 bundle exec jekyll serve
 ```
 
-this will track the changes and rebuild automatically. However, it won't reflect changes on `_config.yaml` 
+this will track the changes and rebuild automatically. However, it won't reflect changes on `_config.yaml`. 
 
 
 ### Building using a Jekyll container
